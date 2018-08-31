@@ -1,5 +1,6 @@
 'use strict';
 
+//const socket = io('http://localhost:5005');
 const socket = io();
 
 const outputYou = document.querySelector('.output-you');
